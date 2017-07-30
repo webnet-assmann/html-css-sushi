@@ -210,5 +210,5 @@ Wenn du abspeicherst und die HTML-Seite im Browser ansiehst, kannst du sehen, da
 Mit diesem Grundwissen kannst du nun schon einiges schöner gestalten in deiner Webseite.
 
 Probier es einfach aus. Bei Fragen kannst du dich jederzeit an die Mentoren wenden.
-Wie wäre es mit einer kleinen Webseite, die du mit der nächsten SushiCard erstellen kannst?
+Wie wäre es mit einer eigenen kleinen Webseite?
 Viel Spaß dabei!
