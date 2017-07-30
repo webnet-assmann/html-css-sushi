@@ -11,8 +11,8 @@ Ausnahmen:`<img>`,`<br>`,`<hr>`
 | `<html>`  | Definiert ein HTML-Dokument  |
 | `<head>`  | Definiert Informationen über das Dokument  |
 | `<meta>`  | Meta-Tags, z.B. für Angabe der Zeichenkodierung  |
-| `<script>`  | Bindet internes oder externes Script (z.B. JavaScript) ein |
 | `<title>`  | Titel des Dokuments  |
+| `<link>`  | Bindet internes oder externes Script (z.B. JavaScript) ein |
 | `<body>`  | Definiert den Dokumenten-Body (Seiteninhalt) |
 
 ## Bereiche HTML
