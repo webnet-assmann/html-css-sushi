@@ -21,6 +21,7 @@ Ausnahmen:`<img>`,`<br>`,`<hr>`
 | ------------- | ------------- |
 | `<header>`  | Inhalt Kopfbereich  |
 | `<nav>`  | Navigation  |
+| `<main>`  | Hauptbereich für den Inhalt |
 | `<section>`  | Gruppiert Elementen |
 | `<article>`  | Bereich für den Inhalt |
 | `<aside>`  | Zusatzbereich zum Inhalt (Seitenleiste) |
